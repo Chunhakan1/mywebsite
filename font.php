@@ -4,15 +4,22 @@
     <style>
       @font-face{
         font-family: "MyFont1";
-        src: url("MNNTuaklom.ttf");
+        src: url("baozi.ttf");
       }
-      body{
-        font-family: "MyFont1";
+      @font-face{
+        font-family: "MyFont2";
         src: url("ChocolateteehaypaiTEST.ttf");
+      }
+      #font1{
+        font-family: "MyFont1";
+      }
+      #font2{
+        font-family: "MyFont2";
       }
     </style>
   </head>
   <body>
-    <h1>ฟอนต์ของฉัน</h1>
+    <h1 id="font1">นายยิ่งคุณ รอดทิม เลขที่ 1 ห้อง ม.4/14 เลขประจำตัว 88888</h1>
+    <h1 id="font2">นายยิ่งคุณ รอดทิม เลขที่ 1 ห้อง ม.4/14 เลขประจำตัว 88888</h1>
   </body>
 </html>
