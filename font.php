@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: "MyFont2";
-        src: url("MNN_Tuak.ttf");
+        src: url("MNNTuak.ttf");
       }
       #font1{
         font-family: "MyFont1";
