@@ -15,7 +15,7 @@
       <td>1</td>
       <td>โบว์ ศิรดา</td>
       <td><img scr="" width="45px"></td>
-      <td><a href=https://www.facebook.com/sirada.sue">Facebook</a></td>
+      <td><a href="https://www.facebook.com/sirada.sue">Facebook</a></td>
     </tr>  
     <tr>
       <td>2</td>
@@ -39,7 +39,7 @@
         <td>5</td>
         <td>เติร์ด ลภัส</td>
         <td><img scr="" width="45px"></td>
-        <td><a href="https://www.instagram.com/thirdd/>Instagram</a></td>
+        <td><a href="https://www.instagram.com/thirdd/">Instagram</a></td>
     </tr>
    </table>
   </body>
