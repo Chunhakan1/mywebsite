@@ -14,7 +14,7 @@
     <tr>
       <td>1</td>
       <td>โบว์ ศิรดา</td>
-      <td><img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTlN4ZEIquJs1UuOocSCcx6dNj6erab_S5a0kdIOT0TY9sWuR_F2B06gLvreARRGWA0ms&usqp=CAU" width="45px"></td>
+      <td><img scr="https://cdn.girlsclub.asia/wp-content/uploads/2020/04/22113830/IMG_6629-300x225.jpg" width="45px"></td>
       <td><a href="https://www.facebook.com/search/top?q=siradasue">Facebook</a></td>
     </tr>  
    </table>
