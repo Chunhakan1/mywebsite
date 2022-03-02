@@ -15,7 +15,7 @@
       <td>1</td>
       <td>โบว์ ศิรดา</td>
       <td><img scr=""45px"></td>
-      <td><a href="https://www.facebook.com/search/top?q=siradasue">Facebook</a></td>
+      <td><a href="https://www.facebook.com/sirada.sue">Facebook</a></td>
     </tr>  
     <tr>
       <td>2</td>
