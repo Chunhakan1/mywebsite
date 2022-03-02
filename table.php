@@ -20,7 +20,8 @@
     <tr>
       <td>2</td>
       <td>ปั๋น ดาริสา</td>
-      <td><img scr="
+      <td><img scr="https://sgp1.digitaloceanspaces.com/adaybulletin/2021/04/Open-WEB-The-Guest-riety.jpg" width="45px"></td>
+        <td><a href="https://www.facebook.com/rietypahn">Facebook</a></td>  
    </table>
   </body>
 </html>
